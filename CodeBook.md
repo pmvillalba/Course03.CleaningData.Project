@@ -40,13 +40,12 @@ The transformations performed in this Project over the raw data are the followin
     * Label the data set with descriptive variable names.
     * Create a final tidy data set with the average of each variable for each activity and each subject.
 
-# Tidy dataset code book
+# Tidy dataset codebook
 
-Here is the code book for the final dataset:
+Here is the codebook for the final dataset:
 
 # Data report overview
 The dataset examined has the following dimensions:
-
 
 ---------------------------------
 Feature                    Result
@@ -55,170 +54,6 @@ Number of observations        180
 
 Number of variables            81
 ---------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Codebook summary table
@@ -411,12 +246,13 @@ Median                         15.5
 1st and 3rd quartiles         8; 23
 
 Min. and max.                 1; 30
+
 -----------------------------------
 
 
 
 
-\fullline
+
 
 ## IdActivity
 
@@ -435,12 +271,13 @@ Median                          3.5
 1st and 3rd quartiles          2; 5
 
 Min. and max.                  1; 6
+
 -----------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerMean.X
 
@@ -459,12 +296,13 @@ Median                            0.28
 1st and 3rd quartiles       0.27; 0.28
 
 Min. and max.                0.22; 0.3
+
 --------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerMean.Y
 
@@ -483,12 +321,13 @@ Median                             -0.02
 1st and 3rd quartiles       -0.02; -0.01
 
 Min. and max.                   -0.04; 0
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerMean.Z
 
@@ -507,12 +346,13 @@ Median                             -0.11
 1st and 3rd quartiles        -0.11; -0.1
 
 Min. and max.               -0.15; -0.08
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerStandardDeviation.X
 
@@ -531,12 +371,13 @@ Median                            -0.75
 1st and 3rd quartiles       -0.98; -0.2
 
 Min. and max.                  -1; 0.63
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerStandardDeviation.Y
 
@@ -555,12 +396,13 @@ Median                             -0.51
 1st and 3rd quartiles       -0.94; -0.03
 
 Min. and max.                -0.99; 0.62
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerStandardDeviation.Z
 
@@ -579,12 +421,13 @@ Median                             -0.65
 1st and 3rd quartiles       -0.95; -0.23
 
 Min. and max.                -0.99; 0.61
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeGravityAccelerometerMean.X
 
@@ -603,12 +446,13 @@ Median                             0.92
 1st and 3rd quartiles        0.84; 0.94
 
 Min. and max.               -0.68; 0.97
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeGravityAccelerometerMean.Y
 
@@ -627,12 +471,13 @@ Median                            -0.13
 1st and 3rd quartiles       -0.23; 0.09
 
 Min. and max.               -0.48; 0.96
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeGravityAccelerometerMean.Z
 
@@ -651,12 +496,13 @@ Median                             0.02
 1st and 3rd quartiles       -0.12; 0.15
 
 Min. and max.                -0.5; 0.96
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeGravityAccelerometerStandardDeviation.X
 
@@ -675,12 +521,13 @@ Median                             -0.97
 1st and 3rd quartiles       -0.98; -0.95
 
 Min. and max.                  -1; -0.83
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeGravityAccelerometerStandardDeviation.Y
 
@@ -699,12 +546,13 @@ Median                             -0.96
 1st and 3rd quartiles       -0.97; -0.94
 
 Min. and max.               -0.99; -0.64
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeGravityAccelerometerStandardDeviation.Z
 
@@ -723,12 +571,13 @@ Median                             -0.95
 1st and 3rd quartiles       -0.96; -0.92
 
 Min. and max.               -0.99; -0.61
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerJerkMean.X
 
@@ -747,12 +596,13 @@ Median                            0.08
 1st and 3rd quartiles       0.07; 0.08
 
 Min. and max.               0.04; 0.13
+
 --------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerJerkMean.Y
 
@@ -771,12 +621,13 @@ Median                             0.01
 1st and 3rd quartiles           0; 0.01
 
 Min. and max.               -0.04; 0.06
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerJerkMean.Z
 
@@ -795,12 +646,13 @@ Median                                0
 1st and 3rd quartiles          -0.01; 0
 
 Min. and max.               -0.07; 0.04
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerJerkStandardDeviation.X
 
@@ -819,12 +671,13 @@ Median                             -0.81
 1st and 3rd quartiles       -0.98; -0.22
 
 Min. and max.                -0.99; 0.54
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerJerkStandardDeviation.Y
 
@@ -843,12 +696,13 @@ Median                             -0.78
 1st and 3rd quartiles       -0.97; -0.15
 
 Min. and max.                -0.99; 0.36
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerJerkStandardDeviation.Z
 
@@ -867,12 +721,13 @@ Median                             -0.88
 1st and 3rd quartiles       -0.98; -0.51
 
 Min. and max.                -0.99; 0.03
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeMean.X
 
@@ -891,12 +746,13 @@ Median                             -0.03
 1st and 3rd quartiles       -0.05; -0.02
 
 Min. and max.                -0.21; 0.19
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeMean.Y
 
@@ -915,12 +771,13 @@ Median                             -0.07
 1st and 3rd quartiles       -0.09; -0.06
 
 Min. and max.                 -0.2; 0.03
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeMean.Z
 
@@ -939,12 +796,13 @@ Median                             0.09
 1st and 3rd quartiles         0.07; 0.1
 
 Min. and max.               -0.07; 0.18
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeStandardDeviation.X
 
@@ -963,12 +821,13 @@ Median                             -0.79
 1st and 3rd quartiles       -0.97; -0.44
 
 Min. and max.                -0.99; 0.27
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeStandardDeviation.Y
 
@@ -987,12 +846,13 @@ Median                              -0.8
 1st and 3rd quartiles       -0.96; -0.42
 
 Min. and max.                -0.99; 0.48
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeStandardDeviation.Z
 
@@ -1011,12 +871,13 @@ Median                              -0.8
 1st and 3rd quartiles       -0.96; -0.31
 
 Min. and max.                -0.99; 0.56
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeJerkMean.X
 
@@ -1035,12 +896,14 @@ Median                              -0.1
 1st and 3rd quartiles        -0.1; -0.09
 
 Min. and max.               -0.16; -0.02
+
 ----------------------------------------
 
 
 
 
-\fullline
+
+
 
 ## TimeBodyGyroscopeJerkMean.Y
 
@@ -1059,12 +922,13 @@ Median                             -0.04
 1st and 3rd quartiles       -0.05; -0.04
 
 Min. and max.               -0.08; -0.01
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeJerkMean.Z
 
@@ -1083,12 +947,13 @@ Median                             -0.05
 1st and 3rd quartiles       -0.06; -0.05
 
 Min. and max.               -0.09; -0.01
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeJerkStandardDeviation.X
 
@@ -1107,12 +972,13 @@ Median                             -0.84
 1st and 3rd quartiles       -0.98; -0.46
 
 Min. and max.                   -1; 0.18
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeJerkStandardDeviation.Y
 
@@ -1131,12 +997,13 @@ Median                             -0.89
 1st and 3rd quartiles       -0.98; -0.59
 
 Min. and max.                    -1; 0.3
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeJerkStandardDeviation.Z
 
@@ -1155,12 +1022,13 @@ Median                             -0.86
 1st and 3rd quartiles       -0.98; -0.47
 
 Min. and max.                   -1; 0.19
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerMagnitudeMean
 
@@ -1179,12 +1047,13 @@ Median                             -0.48
 1st and 3rd quartiles       -0.96; -0.09
 
 Min. and max.                -0.99; 0.64
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerMagnitudeStandardDeviation
 
@@ -1203,12 +1072,13 @@ Median                             -0.61
 1st and 3rd quartiles       -0.94; -0.21
 
 Min. and max.                -0.99; 0.43
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeGravityAccelerometerMagnitudeMean
 
@@ -1227,12 +1097,13 @@ Median                             -0.48
 1st and 3rd quartiles       -0.96; -0.09
 
 Min. and max.                -0.99; 0.64
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeGravityAccelerometerMagnitudeStandardDeviation
 
@@ -1251,12 +1122,14 @@ Median                             -0.61
 1st and 3rd quartiles       -0.94; -0.21
 
 Min. and max.                -0.99; 0.43
+
 ----------------------------------------
 
 
 
 
-\fullline
+
+
 
 ## TimeBodyAccelerometerJerkMagnitudeMean
 
@@ -1275,12 +1148,13 @@ Median                             -0.82
 1st and 3rd quartiles       -0.98; -0.25
 
 Min. and max.                -0.99; 0.43
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyAccelerometerJerkMagnitudeStandardDeviation
 
@@ -1299,12 +1173,13 @@ Median                              -0.8
 1st and 3rd quartiles       -0.98; -0.22
 
 Min. and max.                -0.99; 0.45
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeMagnitudeMean
 
@@ -1323,12 +1198,13 @@ Median                             -0.66
 1st and 3rd quartiles       -0.95; -0.22
 
 Min. and max.                -0.98; 0.42
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeMagnitudeStandardDeviation
 
@@ -1347,12 +1223,13 @@ Median                             -0.74
 1st and 3rd quartiles       -0.95; -0.36
 
 Min. and max.                 -0.98; 0.3
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeJerkMagnitudeMean
 
@@ -1371,12 +1248,13 @@ Median                             -0.86
 1st and 3rd quartiles       -0.99; -0.51
 
 Min. and max.                   -1; 0.09
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## TimeBodyGyroscopeJerkMagnitudeStandardDeviation
 
@@ -1395,12 +1273,13 @@ Median                             -0.88
 1st and 3rd quartiles       -0.98; -0.58
 
 Min. and max.                   -1; 0.25
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerMean.X
 
@@ -1419,12 +1298,13 @@ Median                             -0.77
 1st and 3rd quartiles       -0.98; -0.22
 
 Min. and max.                   -1; 0.54
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerMean.Y
 
@@ -1443,12 +1323,13 @@ Median                             -0.59
 1st and 3rd quartiles       -0.95; -0.06
 
 Min. and max.                -0.99; 0.52
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerMean.Z
 
@@ -1467,12 +1348,13 @@ Median                             -0.72
 1st and 3rd quartiles       -0.96; -0.32
 
 Min. and max.                -0.99; 0.28
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerStandardDeviation.X
 
@@ -1491,12 +1373,13 @@ Median                            -0.75
 1st and 3rd quartiles       -0.98; -0.2
 
 Min. and max.                  -1; 0.66
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerStandardDeviation.Y
 
@@ -1515,12 +1398,13 @@ Median                             -0.51
 1st and 3rd quartiles       -0.94; -0.08
 
 Min. and max.                -0.99; 0.56
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerStandardDeviation.Z
 
@@ -1539,12 +1423,13 @@ Median                             -0.64
 1st and 3rd quartiles       -0.95; -0.27
 
 Min. and max.                -0.99; 0.69
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerMeanFreq.X
 
@@ -1563,12 +1448,13 @@ Median                             -0.26
 1st and 3rd quartiles       -0.39; -0.06
 
 Min. and max.                -0.64; 0.16
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerMeanFreq.Y
 
@@ -1587,12 +1473,13 @@ Median                             0.01
 1st and 3rd quartiles       -0.08; 0.09
 
 Min. and max.               -0.38; 0.47
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerMeanFreq.Z
 
@@ -1611,12 +1498,13 @@ Median                             0.07
 1st and 3rd quartiles       -0.04; 0.18
 
 Min. and max.                -0.52; 0.4
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerJerkMean.X
 
@@ -1635,12 +1523,13 @@ Median                             -0.81
 1st and 3rd quartiles       -0.98; -0.28
 
 Min. and max.                -0.99; 0.47
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerJerkMean.Y
 
@@ -1659,12 +1548,13 @@ Median                            -0.78
 1st and 3rd quartiles       -0.97; -0.2
 
 Min. and max.               -0.99; 0.28
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerJerkMean.Z
 
@@ -1683,12 +1573,13 @@ Median                             -0.87
 1st and 3rd quartiles       -0.98; -0.47
 
 Min. and max.                -0.99; 0.16
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerJerkStandardDeviation.X
 
@@ -1707,12 +1598,13 @@ Median                             -0.83
 1st and 3rd quartiles       -0.98; -0.25
 
 Min. and max.                   -1; 0.48
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerJerkStandardDeviation.Y
 
@@ -1731,12 +1623,13 @@ Median                             -0.79
 1st and 3rd quartiles       -0.97; -0.17
 
 Min. and max.                -0.99; 0.35
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerJerkStandardDeviation.Z
 
@@ -1755,12 +1648,13 @@ Median                              -0.9
 1st and 3rd quartiles       -0.98; -0.54
 
 Min. and max.               -0.99; -0.01
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerJerkMeanFreq.X
 
@@ -1779,12 +1673,13 @@ Median                            -0.06
 1st and 3rd quartiles       -0.29; 0.18
 
 Min. and max.               -0.58; 0.33
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerJerkMeanFreq.Y
 
@@ -1803,12 +1698,13 @@ Median                            -0.23
 1st and 3rd quartiles       -0.4; -0.05
 
 Min. and max.                 -0.6; 0.2
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerJerkMeanFreq.Z
 
@@ -1827,12 +1723,13 @@ Median                            -0.09
 1st and 3rd quartiles       -0.31; 0.04
 
 Min. and max.               -0.63; 0.23
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeMean.X
 
@@ -1851,12 +1748,13 @@ Median                             -0.73
 1st and 3rd quartiles       -0.97; -0.34
 
 Min. and max.                -0.99; 0.47
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeMean.Y
 
@@ -1875,12 +1773,13 @@ Median                             -0.81
 1st and 3rd quartiles       -0.97; -0.45
 
 Min. and max.                -0.99; 0.33
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeMean.Z
 
@@ -1899,12 +1798,13 @@ Median                             -0.79
 1st and 3rd quartiles       -0.96; -0.26
 
 Min. and max.                -0.99; 0.49
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeStandardDeviation.X
 
@@ -1923,12 +1823,13 @@ Median                             -0.81
 1st and 3rd quartiles       -0.98; -0.48
 
 Min. and max.                 -0.99; 0.2
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeStandardDeviation.Y
 
@@ -1947,12 +1848,13 @@ Median                              -0.8
 1st and 3rd quartiles       -0.96; -0.42
 
 Min. and max.                -0.99; 0.65
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeStandardDeviation.Z
 
@@ -1971,12 +1873,13 @@ Median                             -0.82
 1st and 3rd quartiles       -0.96; -0.39
 
 Min. and max.                -0.99; 0.52
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeMeanFreq.X
 
@@ -1995,12 +1898,13 @@ Median                           -0.12
 1st and 3rd quartiles         -0.21; 0
 
 Min. and max.               -0.4; 0.25
+
 --------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeMeanFreq.Y
 
@@ -2019,12 +1923,13 @@ Median                             -0.16
 1st and 3rd quartiles       -0.29; -0.04
 
 Min. and max.                -0.67; 0.27
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeMeanFreq.Z
 
@@ -2043,12 +1948,13 @@ Median                            -0.05
 1st and 3rd quartiles       -0.15; 0.04
 
 Min. and max.               -0.51; 0.38
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerMagnitudeMean
 
@@ -2067,12 +1973,13 @@ Median                             -0.67
 1st and 3rd quartiles       -0.96; -0.16
 
 Min. and max.                -0.99; 0.59
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerMagnitudeStandardDeviation
 
@@ -2091,12 +1998,13 @@ Median                             -0.65
 1st and 3rd quartiles       -0.95; -0.37
 
 Min. and max.                -0.99; 0.18
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerMagnitudeMeanFreq
 
@@ -2115,12 +2023,13 @@ Median                             0.08
 1st and 3rd quartiles       -0.01; 0.17
 
 Min. and max.               -0.31; 0.44
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerJerkMagnitudeMean
 
@@ -2139,12 +2048,13 @@ Median                             -0.79
 1st and 3rd quartiles       -0.98; -0.19
 
 Min. and max.                -0.99; 0.54
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerJerkMagnitudeStandardDeviation
 
@@ -2163,12 +2073,13 @@ Median                             -0.81
 1st and 3rd quartiles       -0.98; -0.27
 
 Min. and max.                -0.99; 0.32
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyAccelerometerJerkMagnitudeMeanFreq
 
@@ -2187,12 +2098,13 @@ Median                             0.17
 1st and 3rd quartiles        0.05; 0.28
 
 Min. and max.               -0.13; 0.49
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeMagnitudeMean
 
@@ -2211,12 +2123,13 @@ Median                             -0.77
 1st and 3rd quartiles       -0.96; -0.41
 
 Min. and max.                 -0.99; 0.2
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeMagnitudeStandardDeviation
 
@@ -2235,12 +2148,13 @@ Median                             -0.77
 1st and 3rd quartiles       -0.95; -0.43
 
 Min. and max.                -0.98; 0.24
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeMagnitudeMeanFreq
 
@@ -2259,12 +2173,13 @@ Median                            -0.05
 1st and 3rd quartiles       -0.17; 0.08
 
 Min. and max.               -0.46; 0.41
+
 ---------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeJerkMagnitudeMean
 
@@ -2283,12 +2198,13 @@ Median                             -0.88
 1st and 3rd quartiles       -0.98; -0.58
 
 Min. and max.                   -1; 0.15
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeJerkMagnitudeStandardDeviation
 
@@ -2307,12 +2223,13 @@ Median                             -0.89
 1st and 3rd quartiles       -0.98; -0.61
 
 Min. and max.                   -1; 0.29
+
 ----------------------------------------
 
 
 
 
-\fullline
+
 
 ## FrequencyBodyGyroscopeJerkMagnitudeMeanFreq
 
@@ -2331,11 +2248,10 @@ Median                             0.11
 1st and 3rd quartiles        0.05; 0.21
 
 Min. and max.               -0.18; 0.43
+
 ---------------------------------------
 
 
 
-
-\fullline
 
 
