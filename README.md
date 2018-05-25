@@ -7,9 +7,9 @@ The script to perform the analysis is "run_analysis.R". In order to perform the 
 	* X_train.txt
 	* y_train.txt
 	* subject_test.txt
-  * X_test.txt
-  * y_test.txt
-  * activity_labels.txt
+	* X_test.txt
+	* y_test.txt
+	* activity_labels.txt
 
 Once the script is run, it will produce the output "tidy_data.txt", which is a text file contaning the final dataset.
 
