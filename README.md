@@ -13,4 +13,4 @@ The script to perform the analysis is "run_analysis.R". In order to perform the 
 
 Once the script is run, it will produce the output "tidy_data.txt", which is a text file contaning the final dataset.
 
-To know more about the variables, the data, and any transformations or work performed to clean up the data see ["CodeBook.md"](https://github.com/pmvillalba/Course03.CleaningData.Project/codebook.md)  
+To know more about the variables, the data, and any transformations or work performed to clean up the data see ["CodeBook.md"](https://github.com/pmvillalba/Course03.CleaningData.Project/CodeBook.md)  
