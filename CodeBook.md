@@ -53,6 +53,7 @@ Feature                    Result
 Number of observations        180
 
 Number of variables            81
+
 ---------------------------------
 
 
