@@ -63,6 +63,6 @@ names(dtFinalFilt) <- cFeaturesFilt
 
 # 5. Final dataset
 # From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
-dtTidy <- ddply(dtFinalFilt,.(IdSubject,IdActivity),numcolwise(mean))
+dtTidy <- ddply(dtFinalFilt,.(IdSubject,IdActivity,Activity),numcolwise(mean))
 # Export tidy data as text.
 write.table(dtTidy,file = "tidy_data.txt", row.names = FALSE)
