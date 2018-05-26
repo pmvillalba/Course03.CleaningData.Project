@@ -52,7 +52,7 @@ Feature                    Result
 ------------------------ --------
 Number of observations        180
 
-Number of variables            81
+Number of variables            82
 
 ---------------------------------
 
@@ -67,6 +67,8 @@ Label   Variable                                                         Class  
 
         **[IdActivity]**                                                 integer            6  0.00 %                
 
+        **[Activity]**                                                   factor             6  0.00 %     
+        
         **[TimeBodyAccelerometerMean.X]**                                numeric          180  0.00 %                
 
         **[TimeBodyAccelerometerMean.Y]**                                numeric          180  0.00 %                
@@ -274,6 +276,26 @@ Median                          3.5
 Min. and max.                  1; 6
 
 -----------------------------------
+
+
+
+
+
+
+## Activity
+
+
+------------------------------------
+Feature                       Result
+------------------------- ----------
+Variable type                 factor
+
+Number of missing obs.       0 (0 %)
+
+Number of unique values            6
+
+Mode                        "LAYING"
+------------------------------------
 
 
 
